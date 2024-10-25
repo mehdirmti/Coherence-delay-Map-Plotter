@@ -1,4 +1,4 @@
-# Project: Coherence delay map plotter
+# A Matlab script for the representation of coherence delay maps
 
 Welcome to the repository for Wavelet Coherence Map Plotter. 
 This repository contains the codes and sample data for better illustration of wavelet coherence analysis, along with documentation and instructions for usage.
@@ -58,7 +58,7 @@ explicit satellite‐derived irrigation estimates. Water Resources Research, 60,
 4. Rahi, A., Rahmati, M., Dari, J., Bogena, H., Vereecken, H., & Morbidelli, R. (2024). Combining signal decomposition and deep learning model to predict noisy runoff coefficient. Journal of Hydrology, 641, 131815. https://doi.org/10.1016/j.jhydrol.2024.131815
 
 ## To be Cited:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13992032.svg)](https://doi.org/10.5281/zenodo.13992032)
+Rahmati. M., 2024. A Matlab script for the representation of coherence delay maps. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13992032.svg)](https://doi.org/10.5281/zenodo.13992032)
 
 ## Contact
 
