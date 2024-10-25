@@ -29,7 +29,7 @@ To summarise that information in one plot, we introduce this plotter. Such infor
 ![plot](./Output/SampleOutput.jpg)
 **Figure 3**: Coherence‐delay plots between differences in soil water content (ΔSWC) as the base signal and difference in evapotranspiration (ΔET) as the second signal. Panel (a) shows the coherence‐delay map, panel (b) the scale‐averaged coherence, panel (c) the scale‐averaged phase shift, panel (d) the time‐averaged phase shift, and panel (e) the time‐averaged coherence.
 
-Examples usage of the Coherence‐delay plot and the interpretations can be found in [Rahi et al. (2024)](https://www.sciencedirect.com/science/article/pii/S0022169424012113?via%3Dihub) and [Dari et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036510).
+Example usage of the Coherence‐delay plot and the interpretations can be found in [Rahi et al. (2024)](https://www.sciencedirect.com/science/article/pii/S0022169424012113?via%3Dihub) and [Dari et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036510).
 
 ## Repository Structure
 
