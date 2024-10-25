@@ -57,6 +57,9 @@ MIT License
 explicit satellite‐derived irrigation estimates. Water Resources Research, 60, e2023WR036510. https://doi.org/10.1029/2023WR036510
 4. Rahi, A., Rahmati, M., Dari, J., Bogena, H., Vereecken, H., & Morbidelli, R. (2024). Combining signal decomposition and deep learning model to predict noisy runoff coefficient. Journal of Hydrology, 641, 131815. https://doi.org/10.1016/j.jhydrol.2024.131815
 
+## To be Cited:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13992032.svg)](https://doi.org/10.5281/zenodo.13992032)
+
 ## Contact
 
 Mehdi Rahmati
