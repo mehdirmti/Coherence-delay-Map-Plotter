@@ -19,7 +19,7 @@ describe the concepts of perfect correlation, anticorrelation, and phase shift o
 One can summarize the arrow directions and the positive and negative correlations between the base signal yb and a second signal yi 
 with Δt values varying between zero and 2π (see figure below):
 
-![plot](./Output/Wavelet Circle.jpg) 
+![plot](./Output/WaveletCircle.jpg) 
 
 To summarise that information in one plot, we introduce this plotter. Such information for the above wavelet map can be summarized as below:
 
