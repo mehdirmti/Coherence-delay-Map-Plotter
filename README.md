@@ -55,7 +55,7 @@ MIT License
 2. Rahmati M, Groh J, Graf A, Pütz T, Vanderborght J, Vereecken H. On the impact of increasing drought on the relationship between soil water content and evapotranspiration of a grassland. Vadose Zone J. 2020; 19:e20029. https://doi.org/10.1002/vzj2.20029
 3. Dari, J., Quintana‐Seguí, P., Barella‐Ortiz, A., Rahmati, M., Saltalippi, C., Flammini, A., & Brocca, L. (2024). Quantifying the hydrological impacts of irrigation on a Mediterranean agricultural context through
 explicit satellite‐derived irrigation estimates. Water Resources Research, 60, e2023WR036510. https://doi.org/10.1029/2023WR036510
-4. Rahi, A., Rahmati, M., Dari, J., Bogena, H., Vereecken, H., & Morbidelli, R. (2024). Combining signal decomposition and deep learning model to predict noisy runoff coefficient. Journal of Hydrology, 641, 131815.
+4. Rahi, A., Rahmati, M., Dari, J., Bogena, H., Vereecken, H., & Morbidelli, R. (2024). Combining signal decomposition and deep learning model to predict noisy runoff coefficient. Journal of Hydrology, 641, 131815. https://doi.org/10.1016/j.jhydrol.2024.131815
 
 ## Contact
 
