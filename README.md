@@ -13,6 +13,7 @@ the phase shift (delay) between the studied signals for each point in the time a
 The wavelet map obtained from WCA analysis is very informative and comes with arrows and colors. A simple output of WCA can look like as below:
 
 ![plot](./Output/SimpleWaveletMap.jpg)
+
 **Figure 1**: Simple wavelet coherence plot obtained from the application of Matlab package developed by [Grinsted, Moore, and Jevrejeva (2004)](https://npg.copernicus.org/articles/11/561/2004/) over differences in soil water content (ΔSWC) as the base signal and difference in evapotranspiration (ΔET) as the second signal.
 
 As supplemental Material to our paper, [Rahmati et al. (2020)](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20029), we provide a simple analysis of several artificial signals using WCA to 
