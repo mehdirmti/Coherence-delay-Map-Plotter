@@ -43,7 +43,7 @@ Examples usage of the Coherence‐delay plot and the interpretations can be foun
 
 ## Usage
 
-No environemtn is requeired. 
+No special environment is required.  
 
 ## License
 
