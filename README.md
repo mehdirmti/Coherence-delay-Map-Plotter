@@ -1,7 +1,7 @@
 # Project: Wavelet Coherence Map Plotter
 
 Welcome to the repository for Wavelet Coherence Map Plotter. 
-This repository contains the codes and sample data for better illustration of wavelte coherence analysis, along with documentation and instructions for usage.
+This repository contains the codes and sample data for better illustration of wavelet coherence analysis, along with documentation and instructions for usage.
 
 ## Overview
 
@@ -10,19 +10,20 @@ where a Monte Carlo approach is used to determine the significance of localized 
 the continuous, nonorthogonal Morlet wavelet is selected as the mother wavelet function.
 The WCA allows an in‐depth correlation analysis between two different signals, where it quantifies the strength of the correlation (i.e., the coherence) and
 the phase shift (delay) between the studied signals for each point in the time and frequency domains (Rahmati et al., 2020).
-The wavlet map obtained from WCA analysis is very informative and comes with arrows and colors. A simple output of WCA can look like as below:
+The wavelet map obtained from WCA analysis is very informative and comes with arrows and colors. A simple output of WCA can look like as below:
 
-<Figure 1 comes hear>
+![plot](./Output/SimpleWaveletMap.jpg)
 
-As a supplemental Material to our paper, Rahmati et al. (2020), we provides a simple analysis of several artificial signals using WCA to 
-describe the concepts of perfect correlation, anticorrelation, and phase shift or phase angle, which can be optained from wavelet map.
+As supplemental Material to our paper, Rahmati et al. (2020), we provide a simple analysis of several artificial signals using WCA to 
+describe the concepts of perfect correlation, anticorrelation, and phase shift or phase angle, which can be obtained from a wavelet map.
 One can summarize the arrow directions and the positive and negative correlations between the base signal yb and a second signal yi 
-with Δt values varying between zero and 2π (seefigure below):
+with Δt values varying between zero and 2π (see figure below):
 
-<Figure 2 comes hear>
+![plot](./Output/Wavelet Circle.jpg)
 
-To summerise those information in one plot, we intoodcue this plotter. Such information for above wavelet map can be summerized as below:
+To summarise that information in one plot, we introduce this plotter. Such information for the above wavelet map can be summarized as below:
 
+![plot](./Output/SampleOutput.jpg)
 
 
 ## Repository Structure
