@@ -1,4 +1,4 @@
-# Project: Wavelet Coherence Map Plotter
+# Project: Coherence delay map plotter
 
 Welcome to the repository for Wavelet Coherence Map Plotter. 
 This repository contains the codes and sample data for better illustration of wavelet coherence analysis, along with documentation and instructions for usage.
